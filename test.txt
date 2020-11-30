@@ -1,1 +1,1 @@
-This is a test
+This file has been edited to test branching and merging from cmd. 
